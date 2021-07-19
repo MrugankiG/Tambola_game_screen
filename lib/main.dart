@@ -82,7 +82,6 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Wrap(
               // mainAxisAlignment: MainAxisAlignment.center,
               direction: Axis.vertical,
-
               children: columns.map((n) {
                 return Container(
                   child: n,
