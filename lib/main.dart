@@ -149,17 +149,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ],  
             ),
           ),
-          // Container(
-          //   child: OutlinedButton(
-          //     child: Text(
-          //       'New',
-          //       style: TextStyle(fontSize: 20.0),
-          //     ),
-          //     onPressed: () {
-          //       gen();
-          //     },
-          //   ),
-          // ),
         ],
       ),
     );
